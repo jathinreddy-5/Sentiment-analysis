@@ -1,6 +1,3 @@
-Here is the exact content to paste:
-
-```
 # 🐦 Twitter Sentiment Analysis
 
 > Binary sentiment classification of tweets using NLP and Logistic Regression on the Sentiment140 dataset.
@@ -123,4 +120,3 @@ Test Accuracy      →  77.7%
 ```
 
 The ~2.2% gap between train and test accuracy shows the model generalises well without overfitting.
-```
